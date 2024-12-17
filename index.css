@@ -1,0 +1,31 @@
+.h1{
+    
+    text-align: center;
+    background-color: rgb(219, 193, 158);
+    border-radius: 400cm;
+    color: darkslategray;
+}
+
+.name{
+    color: #ff0000;
+}
+
+.e-mail{
+    color: chocolate;
+}
+
+.senha{
+    color: crimson;
+}
+
+.button{
+    border-radius: 18px;
+    height: 30px;
+    width: 300px;
+    margin-block: 100px;
+    margin-left: 530px;
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    font-style: italic;
+    color: white;
+}
